@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-4r+%4#$xkm3yl!a$d$d40ub$t8@8i4$#!7ch)zh!fm^%k(ib_b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['electivaiiback.azurewebsites.net']
+ALLOWED_HOSTS = ['electivaiiback.azurewebsites.net','localhost']
 
 
 # Application definition

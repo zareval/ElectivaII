@@ -54,7 +54,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000'
+    'https://gray-ground-03b97970f.5.azurestaticapps.net/'
 ]
 
 ROOT_URLCONF = 'ventaPeliculas.urls'
